@@ -1,0 +1,77 @@
+,case,pos,prediction,r,t,true,word
+86,unknown,unknown,Степень,abstr,physiol,Время,перед сном
+469,acc,S,Время,concr,space,Место,на станции
+611,ins,S,Место,concr,tool,Образ действия,под крышкой
+697,unknown,A,Степень,qual,physq,Образ действия,горько
+744,loc,S,Место,abstr,unknown,Причина,при сдавливании
+1156,ins,S,Образ действия,abstr,speech,Время,перед докладом
+1249,unknown,A,Образ действия,rel,unknown,Время,непременно
+1686,acc,S,Время,concr,tool,Причина,под комбайн
+1913,loc,S,Место,concr,animal,Образ действия,сердце
+2012,ins,S,Причина,abstr,weather,Место,над закатом
+2303,loc,S,Время,unknown,unknown,Образ действия,в подробностях
+2541,gen,S,Степень,concr,animal,Причина,от слепней
+2662,ins,A,Степень,rel,unknown,Время,сегодняшней
+2665,unknown,ADVPRO,Степень,rel,manner,Время,сейчас
+2782,gen,S,Место,concr,plant,Цель,для чая
+2826,loc,S,Место,abstr,unknown,Причина,по службе
+2870,unknown,unknown,Образ действия,abstr,psych,Причина,от злости
+2909,loc,S,Время,unknown,unknown,Степень,памяти
+3022,unknown,A,Время,qual,time,Образ действия,кратко
+3368,gen,A,Время,unknown,unknown,Цель,за реной
+3381,loc,S,Время,unknown,unknown,Место,на полях
+3382,loc,S,Время,unknown,unknown,Место,в афинах
+3383,gen,S,Время,unknown,unknown,Место,в нем
+3564,gen,S,Образ действия,concr,org,Место,у трактира
+3673,unknown,A,Степень,qual,physq,Образ действия,мягко
+3928,loc,S,Время,abstr,light,Место,в темноте
+4081,nom,S,Время,propn,hum,Образ действия,ровно
+4166,gen,S,Место,concr,room,Цель,для кухни
+4397,unknown,A,Образ действия,rel,unknown,Время,неотступно
+4475,nom,S,Степень,abstr,unknown,Время,через полвека
+4548,unknown,unknown,Время,abstr,param,Степень,в корне
+4667,unknown,A,Степень,qual,unknown,Образ действия,открыто
+4852,gen,S,Место,propn,topon,Время,до ленинграда
+4866,unknown,A,Степень,qual,physq,Образ действия,твердо
+4972,dat,S,Образ действия,concr,space,Место,на станции
+5096,dat,S,Время,abstr,move,Причина,по выезду
+5243,unknown,A,Степень,qual,physq,Образ действия,твёрдо
+5261,loc,S,Время,unknown,unknown,Место,франции
+5263,nom,S,Время,unknown,unknown,Образ действия,рот
+5327,acc,A,Время,unknown,unknown,Степень,большую
+5510,gen,S,Время,unknown,unknown,Образ действия,руки
+5638,ins,S,Образ действия,unknown,unknown,Время,зимой
+5846,unknown,unknown,Цель,propn,hum,Место,в риме
+6166,unknown,unknown,Место,concr,space,Образ действия,о бок
+6485,gen,unknown,Степень,spec,unknown,Место,вокруг каждого
+6799,unknown,A,Степень,qual,physq,Образ действия,холодно
+7158,unknown,unknown,Образ действия,concr,text,Место,в библии
+7271,unknown,A,Степень,qual,unknown,Образ действия,искренне
+7317,loc,A,Место,rel,unknown,Степень,блистательных
+8462,nom,S,Время,unknown,unknown,Степень,таак
+8910,nom,S,Степень,abstr,unknown,Образ действия,лихо
+8954,unknown,ADV,Время,rel,place,Место,где
+8989,loc,S,Время,unknown,unknown,Место,в хартмуте
+9073,unknown,unknown,Цель,abstr,inter,Время,перед войной
+9080,loc,S,Время,unknown,unknown,Причина,на суде
+9081,loc,APRO,Образ действия,unknown,unknown,Место,в котором
+9106,unknown,unknown,Место,concr,tool,Время,под занавес
+9283,unknown,unknown,Место,concr,space,Степень,через край
+9654,unknown,A,Образ действия,rel,unknown,Степень,непоправимо
+9671,nom,S,Время,abstr,physiol,Степень,смерти
+9694,ins,S,Образ действия,concr,unknown,Место,перед доской
+9938,unknown,A,Степень,qual,unknown,Место,в нем
+9982,gen,S,Степень,propn,hum,Цель,для лизы
+10714,unknown,A,Образ действия,rel,unknown,Степень,непобедимо
+10724,unknown,unknown,Образ действия,abstr,move,Причина,при падении
+11150,unknown,unknown,Степень,abstr,ment,Образ действия,на веру
+11333,unknown,unknown,Образ действия,concr,stuff,Причина,от пота
+11336,unknown,unknown,Образ действия,concr,stuff,Место,на коже
+11370,unknown,A,Образ действия,rel,unknown,Место,в ледяной
+11475,unknown,A,Степень,qual,unknown,Образ действия,хлопотливо
+11614,acc,SPRO,Время,unknown,unknown,Место,внутри себя
+12084,gen,S,Образ действия,concr,tool,Место,у радиатора
+12439,loc,S,Время,unknown,unknown,Место,дворе
+12452,unknown,unknown,Образ действия,abstr,psych,Причина,в отчаянии
+12579,ins,S,Образ действия,unknown,unknown,Причина,под ветром
+12613,dat,S,Время,abstr,move,Образ действия,на ходу
