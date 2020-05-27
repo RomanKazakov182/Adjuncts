@@ -1,5 +1,5 @@
 # Adjuncts
-My coursework that contains the classifier of adjuncts.  
+I am Roma from the group #182. Here is my coursework-project that contains the classifier of adjuncts.  
 
 This is a guide providing information about the files:
   * **Adjuncts.ipynb** - the main program with the classifier itself and some detailed instructions
