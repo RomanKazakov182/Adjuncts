@@ -8,7 +8,7 @@ This is a guide providing information about the files:
   * **features_with_preps.csv** - prepared for learning data with features
   * **final_model.pkl** - the saved model, based on RandomForestClassifier()
   * **encoder.pkl** - the saved encoder, based on OneHotEncoder()
-  * **tree-2** - one of desicion trees that were used in model is visualized
+  * **tree-2.png** - one of desicion trees that were used in model is visualized
   * **mistakes.csv** - the list of all unique mistakes
   
 The source of original FrameBank data: http://nlp.isa.ru/framebank_parser/data/
